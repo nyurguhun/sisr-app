@@ -8,4 +8,4 @@ Drag and drop app to increase resolution of images with Single Image, Super Reso
 * display loading and then new image, next to the original image. new image can be any image, hardcoded for now.
 
 ## Mock-up 
-[]
+[https://github.com/nyurguhun/sisr-app/blob/master/IMG_20190830_125427747.jpg]
