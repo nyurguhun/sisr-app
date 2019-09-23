@@ -8,12 +8,10 @@ body {
 	background: #ecf0f1;
 }
 
-img {
+#img, img {
 	width: 100%;
-}
+	height: 15em;
+	
 
-#img {
-	height: 100%;
-	width: 100%;
 }
 
