@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """
+ Adapted by nyurguhun from Open Model Zoo examples.
+
  Copyright (C) 2018-2019 Intel Corporation
 
  Licensed under the Apache License, Version 2.0 (the "License");
