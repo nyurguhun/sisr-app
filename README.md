@@ -6,6 +6,7 @@ Drag and drop app to increase resolution of images with Single Image, Super Reso
 - [x] add drag and drop space/button. check if file has .jpg format. if not, display "we support jpg format only"
 - [ ] display image that was dragged into drag-and-drop space
 - [ ] display loading and then new image, next to the original image. new image can be any image, hardcoded for now.
+- [ ] call python code from javascript like this: https://stackoverflow.com/questions/13175510/call-python-function-from-javascript-code
 
 ## Rose's to-do list:
 - [x] push Python scrit to the repo
